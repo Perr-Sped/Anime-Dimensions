@@ -230,7 +230,7 @@ w:AddToggle(
                                     ["Difficulty"] = "Easy",
                                     ["FriendsOnly"] = _G.Settings.FriendsOnly,
                                     ["MapName"] = "Titan Dimension",
-                                    ["Hardcore"] = false
+                                    ["Hardcore"] = true
                                 }
                             )
                             game:GetService("ReplicatedStorage").RemoteFunctions.MainRemoteFunction:InvokeServer(
