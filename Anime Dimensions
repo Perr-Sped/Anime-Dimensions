@@ -189,6 +189,7 @@ local q = {
     "Ghoul Dimension",
     "Fate Dimension",
     "Slime Dimension"
+    "Devil Dimension"
 }
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
 local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule"}
